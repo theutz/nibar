@@ -19,7 +19,7 @@ const style = {
   fontWeight: styles.fontWeight
 };
 
-export const refreshFrequency = false;
+export const refreshFrequency = 100;
 export const command = "./nibar/scripts/spaces_primary.sh";
 
 export const render = ({ output }) => {

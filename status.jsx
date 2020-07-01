@@ -23,7 +23,7 @@ const style = {
   fontWeight: styles.fontWeight
 };
 
-export const refreshFrequency = 10000;
+export const refreshFrequency = 5000;
 
 export const command = "./nibar/scripts/status.sh";
 
