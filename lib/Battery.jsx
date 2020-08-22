@@ -13,7 +13,7 @@ const render = ({ output }) => {
             : null
         }
       >
-        <span>{charging ? "􀋦" : null} {percentage}%</span>
+        <span>{charging ? "🔌" : "🔋"} &nbsp;&nbsp;{percentage}%</span>
       </div>
     </div>
   );
