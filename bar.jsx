@@ -11,7 +11,9 @@ const style = {
   overflow: "hidden",
   top: "0px",
   right: "0px",
-  left: "0px"
+  left: "0px",
+  opacity: 0.9,
+  textShadow: `1px 1px 2px black`
 };
 
 export const refreshFrequency = 1000000;
