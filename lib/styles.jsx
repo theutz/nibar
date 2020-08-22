@@ -1,10 +1,10 @@
 export default {
   colors: {
-    fg: "rgba(255,255,255,0.8)",
-    dim: "rgba(255,255,255,0.6)",
-    bg: "#1c1c1c",
-    red: "#ff8700",
-    accent: "#5fafaf"
+    fg: "#fffdfd",
+    dim: "#cbd2d0",
+    bg: "#271033",
+    red: "#ed254e",
+    accent: "#f0e100"
   },
   fontSize: "11px",
   lineHeight: "20px",
